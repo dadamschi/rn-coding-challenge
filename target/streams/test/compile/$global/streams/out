@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/adams/development/rn-dadamschi-coding-challenge/src/test/scala/com/github/api/search/repositories/GithubSearchSpec.scala:65:27: not a legal formal parameter.[0m
-[0m[[0m[31merror[0m] [0m[0mNote: Tuples cannot be directly destructured in method or function parameters.[0m
-[0m[[0m[31merror[0m] [0m[0m      Either create a single parameter accepting the Tuple1,[0m
-[0m[[0m[31merror[0m] [0m[0m      or consider a pattern matching anonymous function: `{ case (param1, param1) => ... }[0m
-[0m[[0m[31merror[0m] [0m[0m      assert((itemsInPage.size => 30))[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,8 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mSuite Starting - GithubAPISearchTest[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Opened - GithubAPISearchTest: Searching repos for a user[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Closed - GithubAPISearchTest: Searching repos for a user[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Opened - GithubAPISearchTest: Searching repos within scope[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Closed - GithubAPISearchTest: Searching repos within scope[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Opened - GithubAPISearchTest: Searching repos for pages[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mScope Closed - GithubAPISearchTest: Searching repos for pages[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSuite Completed - GithubAPISearchTest (52 milliseconds)[0m[0m
